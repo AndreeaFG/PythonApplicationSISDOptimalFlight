@@ -23,10 +23,10 @@ The application was developed in Python using:
 - CSV files as a lightweight local database for flight information
 - OpenWeatherMap API for retrieving weather data
 - A weighted scoring model that evaluates flights based on normalized criteria:
-  Price
-  Duration
-  Number of layovers
-  Weather conditions
+  - Price
+  - Duration
+  - Number of layovers
+  - Weather conditions
 The scoring weights are dynamically adjusted according to the decision mode selected by the user.
 
 Testing
