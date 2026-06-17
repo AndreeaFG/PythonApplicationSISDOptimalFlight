@@ -27,6 +27,7 @@ The application was developed in Python using:
   - Duration
   - Number of layovers
   - Weather conditions
+
 The scoring weights are dynamically adjusted according to the decision mode selected by the user.
 
 Testing
