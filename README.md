@@ -31,6 +31,6 @@ The scoring weights are dynamically adjusted according to the decision mode sele
 
 Testing
 
-The system was tested using multiple scenarios involving different destinations, budgets, and decision preferences. The results confirmed the correct operation of the filtering mechanism, ranking algorithm, weather integration, and recommendation process.
+
 
 The system was tested using multiple scenarios involving different destinations, budgets, and decision preferences. The results confirmed the correct operation of the filtering mechanism, ranking algorithm, weather integration, and recommendation process.
